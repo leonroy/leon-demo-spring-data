@@ -32,7 +32,7 @@
 
         <!-- commons and utils -->
         <commons-validator.version>1.6</commons-validator.version>
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
 
         <!-- magic pixie dust -->
         <lombok.version>1.18.10</lombok.version>
